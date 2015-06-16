@@ -7,6 +7,6 @@ object MatchDemo {
 
 }
 
-object MatchDemo {
+class MatchDemo {
 
 }
